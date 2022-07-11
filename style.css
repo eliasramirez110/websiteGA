@@ -24,6 +24,8 @@ h2 {
   line-height: 25px;
   margin: 0 auto;
   background-color: rgba(10,10,10,.1);
+  padding: 20px;
+  border: 1px solid;   
 }
 b {
   font-size: 18px;
@@ -49,10 +51,7 @@ img {
   margin-right: auto;
   width: 300px;
   height: 300px;
-  border-top: 1px solid #21a1e1;
-  border-left:1px solid #21a1e1;
-  border-right: 1px solid #21a1e1;
-  border-bottom: 1px solid #21a1e1;
+  border: 2px solid #21a1e1;
   border-radius: 200px;
 }
 
